@@ -34,6 +34,7 @@ If you want to force your browser to use Old Reddit interface (available at old.
 
 ## Some other tips and links
 
+* [Dark Reader addon for Firefox](https://addons.mozilla.org/en-US/firefox/addon/darkreader/) ([repo](https://github.com/darkreader/darkreader))
 * [My Firefox recommendations](https://github.com/theel0ja/firefox-recommendations/blob/master/README.md)
 * [My uBlock Origin recommendations](https://github.com/theel0ja/ubo-recommendations/blob/master/README.md)
 * [Amp2Html](https://www.daniel.priv.no/web-extensions/amp2html) - Addon for Firefox to redirect Accelerated Mobile Pages (AMP) to normal pages.

@@ -30,6 +30,10 @@ If you want to force your browser to use Old Reddit interface (available at old.
 
 * [uBlock Origin](https://www.reddit.com/r/FirefoxCSS/comments/7lefac/ublock_origin_dark_theme/)
 
+## Firefox tweaks
+
+* [about:blank](https://www.reddit.com/r/FirefoxCSS/comments/7f4pb1/changing_the_background_color_of_the_aboutblank/dqffzn0/)
+
 <hr/>
 
 ## Some other tips and links

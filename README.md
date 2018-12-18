@@ -26,13 +26,17 @@ _Not to be confused with [dark web](https://en.wikipedia.org/wiki/Dark_web)._
 [Reddit Enchancement Suite](https://addons.mozilla.org/en-US/firefox/addon/reddit-enhancement-suite/) allows dark theme, also for Old Reddit.
 If you want to force your browser to use Old Reddit interface (available at old.reddit.com), check out my [Redirector List](https://github.com/theel0ja/Redirector-List).
 
-## Firefox addons
-
-* [uBlock Origin](https://www.reddit.com/r/FirefoxCSS/comments/7lefac/ublock_origin_dark_theme/)
-
 ## Firefox tweaks
 
+[Shadowfox](https://overdodactyl.github.io/ShadowFox/)
+
+<!--
 * [about:blank](https://www.reddit.com/r/FirefoxCSS/comments/7f4pb1/changing_the_background_color_of_the_aboutblank/dqffzn0/)
+-->
+
+## Firefox addons
+
+* [uBlock Origin](https://www.reddit.com/r/FirefoxCSS/comments/7lefac/ublock_origin_dark_theme/) (not needed with ShadowFox)
 
 <hr/>
 

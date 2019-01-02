@@ -36,7 +36,11 @@ If you want to force your browser to use Old Reddit interface (available at old.
 
 ## Firefox addons
 
+* [Stylus dark theme](https://github.com/overdodactyl/Stylus-Dark)
+
+<!--
 * [uBlock Origin](https://www.reddit.com/r/FirefoxCSS/comments/7lefac/ublock_origin_dark_theme/) (not needed with ShadowFox)
+-->
 
 <hr/>
 

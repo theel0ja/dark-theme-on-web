@@ -35,6 +35,11 @@ If you want to force your browser to use Old Reddit interface (available at old.
 * [Stylus theme](https://userstyles.org/styles/152606/dark-instagram-by-dmei)
 
 
+## Other sites
+
+* [php.net](http://userstyles.org/styles/166417)
+
+
 ## Firefox tweaks
 
 [Shadowfox](https://overdodactyl.github.io/ShadowFox/)
